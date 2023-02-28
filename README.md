@@ -1,1 +1,1 @@
-# .github
+Quantum machine learning research is a field that explores how quantum computing and machine learning can benefit each other. For example, quantum computers might speed up training or evaluation of machine learning models, or machine learning techniques might help optimize quantum circuits. Quantum machine learning also studies similarities between physical and learning systems.
